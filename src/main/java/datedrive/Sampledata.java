@@ -34,16 +34,20 @@ for (int i = 0; i<sheet.getPhysicalNumberOfRows(); i++) {
 		Cell cell = row.getCell(j);
 		System.out.println(cell);
 	
-	} 
+	}
 	
 	}
 
+
 }
 private void id() {
-	System.out.println("123");
+	System.out.println("123"); 
+    System.out.println("432");
+
 
 }
 }
+
 
 
 
