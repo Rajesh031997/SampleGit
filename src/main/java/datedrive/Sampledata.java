@@ -34,9 +34,10 @@ for (int i = 0; i<sheet.getPhysicalNumberOfRows(); i++) {
 		Cell cell = row.getCell(j);
 		System.out.println(cell);
 	
-	} 
+	}
 	
 	}
+
 
 }
 private void id() {
@@ -46,6 +47,7 @@ private void id() {
 
 }
 }
+
 
 
 
